@@ -20,17 +20,17 @@
     }
   ],  
    "env": {
-      "BOT_TOKEN": {5524970934:AAGaBPwpY_0FKi-ttNYledLaTfRsVsOM_es
+      "BOT_TOKEN": { 5524970934:AAGaBPwpY_0FKi-ttNYledLaTfRsVsOM_es
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
          "value": ""
       },
-      "API_ID": {2976931
+      "API_ID": { 2976931
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
       },
-      "API_HASH": {40a1afbce147317a04ac8f3c387331ee
+      "API_HASH": { 40a1afbce147317a04ac8f3c387331ee
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
          "value": ""
@@ -40,36 +40,36 @@
          "required": true,
          "value": "postgresql://username:pw@hostname:port/db_name"
       },      
-      "OWNER_ID": {1159603709
+      "OWNER_ID": { 1159603709
          "description": "Your user ID as an integer.",
          "required": true,
          "value": "2088106582"
       },
-      "HEROKU_API_KEY": {5bd162c3-16fc-4c7e-9fc0-346eaf70a5ef
+      "HEROKU_API_KEY": { 5bd162c3-16fc-4c7e-9fc0-346eaf70a5ef
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
         "value": ""
       },
-      "HEROKU_APP_NAME": {soegamani1
+      "HEROKU_APP_NAME": { soegamani1
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
         "required": false
       },
-      "BOT_USERNAME": {Soeg00bot.
+      "BOT_USERNAME": { Soeg00bot.
          "description": "Username of your bot without the @",
          "value": "micchon_shikimori_bot",
          "required": true
       },
 
-      "BOT_ID": {5524970934
+      "BOT_ID": { 5524970934
          "description": "to get your bot_id using other bot or userbot",
          "value": "5169508699",
          "required": true
       },
 
-      "OWNER_USERNAME": {soeg0
+      "OWNER_USERNAME": { soeg0
          "description": "Your username without the @",
          "value": "SOME1HING"
       },
-      "SUPPORT_CHAT": {soeg001
+      "SUPPORT_CHAT": { soeg001
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
          "value": "tyranteyeeee"
